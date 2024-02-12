@@ -1,0 +1,34 @@
+.product {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    text-align: center; 
+}
+
+.product img {
+    max-width: 100px;
+    display: block; 
+    margin: 0 auto; 
+}
+
+.product h2 {
+    margin-bottom: 10px;
+}
+
+.product p {
+    margin-bottom: 10px;
+}
+
+.product button {
+    background-color: #0a8181;
+    color: white;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block; 
+    margin-top: 10px; 
+}
